@@ -3,8 +3,8 @@
 1. Intro slides - What is this class all about?
 
   - google survey link here: https://forms.gle/WG67xiAMVULkMeq46
-  - github classroom https://classroom.github.com/a/KvsvFKFk
-  - now I can add you as members!
+  - let me know if you haven't been added to git
+  - https://github.com/dsi-explore
 
 2. Survey results activity
 

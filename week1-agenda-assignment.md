@@ -25,3 +25,4 @@ Readings (complete in this order)
 - ONLINE: R for Data Science Chapter 21 (in book) or Chapter 27 online, "R Markdown." Access: (https://r4ds.had.co.nz/r-markdown.html)
   + Complete in-chapter assignment, push to github
   + Create repo "firstname_week1_assign1"
+  + make your repo "private"

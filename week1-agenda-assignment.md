@@ -23,6 +23,5 @@ Readings (complete in this order)
   + pay special attention to this question, which we will discuss in class "Input the county you live in and note the percentages of friendships that are within 50, 100 and 500 miles. How does this compare to the national percentages of 55%, 63% and 70%, respectively? Why do you think your community is more or less connected than the nation as a whole? How do you think this difference affects you and your community?"
 - BRIGHTSPACE: Practical Data Science with R (Zumel and Mount) p. 3-25.
 - ONLINE: R for Data Science Chapter 21 (in book) or Chapter 27 online, "R Markdown." Access: (https://r4ds.had.co.nz/r-markdown.html)
-  + Complete in-chapter assignment, push to github
-  + Create repo "firstname_week1_assign1"
-  + make your repo "private"
+  + Complete in-chapter assignment
+  + Only do "27.2.1 Exercises" 1-4

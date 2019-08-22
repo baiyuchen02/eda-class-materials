@@ -30,6 +30,18 @@ Component # | Part | Topic | Class Week |
 | - | - | Week 15 is a Holiday break | 15 |
 | - | 3 | Final project due | 16 |
 
+## Location & time
+
+Class:
+Tuesdays & Thursdays
+2:35-3:50 PM
+Engineering and Science Building, room 048
+
+Office hours:
+Tuesdays & Thursdays
+4:00-5:00 PM
+Engineering and Science Building, room 202
+
 ## Instructor
 
 [Cassy Dorff, PhD](https://www.cassydorff.com)<br>

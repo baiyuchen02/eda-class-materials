@@ -35,9 +35,9 @@ Assignments and Class Work:
 
 | Grade | Requirement |
 |---|---|
-| C | Successful completion of 12 course competencies + insufficient participation|
-| B | Successful completion of 14 course competencies + good participation |
-| A | Successful completion of 16 course competencies + good participation |
+| C (75%) | Successful completion of 12 course competencies + insufficient participation|
+| B (85%) | Successful completion of 14 course competencies + good participation |
+| A (95%) | Successful completion of 16 course competencies + good participation |
 | F | Otherwise |
 
 Exam and Projects:

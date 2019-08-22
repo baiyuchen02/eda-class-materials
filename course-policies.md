@@ -50,7 +50,7 @@ Your final exam and projects will be given a letter grade (A, B, C, F). In the e
 | 30% | Mid-term exam |
 | 40% | Final project|
 
-Grades will be taken sometimes in class and sometimes outside of class. You can view your grades in BrightSpace. Grading will work along these lines: you will either be graded as having completed an assignment (1) or not (0). The number of 'assignments' will vary per component. You need to complete all assignments to complete a component. If you have not completed it, but tried to complete it, you will be asked to complete it in office hours or within 48 hours. If you have not at all tried to complete the assignment by the time of the due date, you will simply be given a 0 = incomplete. (If you have a personal situation keeping you from attending class or working on an assignment please come see me).
+Grades will be taken sometimes in class and sometimes outside of class. You can view your grades in BrightSpace, where we will show you whether you completed a 'component' or not. Grading will work along these lines: you will either be graded as having completed an assignment (1) or not (0). The number of 'assignments' will vary per component. You need to successfully complete most assignments to complete a component. If you have not completed it, but tried to complete it, you will be asked to complete it in office hours or within 48 hours. If you have not at all tried to complete the assignment by the time of the due date, you will simply be given a 0 = incomplete. (If you have a personal situation keeping you from attending class or working on an assignment please come see me).
 
 ## Communication
 

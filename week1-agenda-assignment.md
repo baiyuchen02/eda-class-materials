@@ -26,3 +26,4 @@ Readings (complete in this order)
   + Complete in-chapter assignment
   + Only do "27.2.1 Exercises" 1-4
   + bonus: make your own repo for this assignment add to class org
+  + name the repo: "firstname-week1-assign1"
